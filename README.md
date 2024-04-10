@@ -4,6 +4,8 @@
 
 An introduction of Coconut-Aero.
 
+[![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coco nut-Aero)](https://github.com/Coconut-Aero/Coconut-Aero/commits/master)
+
 - 👋 Hi, I’m @Coconut-Aero
 - 👀 I’m interested in Computer-Science
 - 🌱 I’m currently learning C/C++, Golang and Java
