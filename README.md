@@ -9,7 +9,7 @@ An introduction of Coconut-Aero.
 - 👋 Hi, I’m @Coconut-Aero
 - 👀 I’m interested in Computer-Science
 - 🌱 I’m currently learning C/C++, Golang and Java
-- ❤️ Thank you for star/fork me!
+- 💕 Thank you for star/fork me!
 - 🥥 Cute Coconut Save The World
 
 <!---
