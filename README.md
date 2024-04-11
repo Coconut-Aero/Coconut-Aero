@@ -1,7 +1,5 @@
 # Coconut-Aero
 
----------------------------------
-
 An introduction of Coconut-Aero.
 [![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero)](https://github.com/Coconut-Aero/Coconut-Aero/commits/master)
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
