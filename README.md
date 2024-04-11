@@ -6,7 +6,12 @@ An introduction of Coconut-Aero.
 [![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero)](https://github.com/Coconut-Aero/Coconut-Aero/commits/master)
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
-![Coconut-Aero GitHub stats](https://github-readme-stats.vercel.app/api?username=Coconut-Aero&show_icons=true&theme=ambient_gradient)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api?username=Coconut-Aero&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coconut-Aero" />
+</a>
 
 - 👋 Hi, I’m @Coconut-Aero
 - 👀 I’m interested in Computer-Science
