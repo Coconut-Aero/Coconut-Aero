@@ -4,10 +4,10 @@ An introduction of Coconut-Aero.
 [![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero)](https://github.com/Coconut-Aero/Coconut-Aero/commits/master)
 [![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Coconut-Aero">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Coconut-Aero&show_icons=true&theme=ambient_gradient" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Coconut-Aero">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coconut-Aero" />
 </a>
 
