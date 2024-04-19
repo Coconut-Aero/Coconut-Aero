@@ -18,7 +18,7 @@ An introduction of Coconut-Aero.
 
 - 👋 Hi, I’m @Coconut-Aero
 - 👀 I’m interested in Computer-Science
-- 🌱 I’m currently learning ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B), ![Golang](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
+- 🌱 I’m currently learning ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B), ![Golang](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go),
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  and ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 - 💕 Thank you for star/fork me!
