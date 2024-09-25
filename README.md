@@ -1,15 +1,23 @@
-# Coconut-Aero
+# <div align="center">Coconut-Aero </div>
 
-An introduction of Coconut-Aero.
-[![last commit](https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero)](https://github.com/Coconut-Aero/Coconut-Aero/commits/master)
-[![Static Badge](https://img.shields.io/badge/Coconut-Aero-blue)](https://github.com/Coconut-Aero)
+<p align="center">
+ <img src="https://img.shields.io/badge/license-GPL_3.0%20license-yellow" alt="License">
+ <img src="https://img.shields.io/badge/language-Java-red" alt="Language">
+  <img src="https://img.shields.io/badge/language-Python-yellow" alt="Language">
+  <img src="https://img.shields.io/badge/language-C++-blue" alt="Language">
+  <img src="https://img.shields.io/badge/language-Golang-purple" alt="Language">
+ <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero" alt="Last Commit">
+ <img src="https://img.shields.io/badge/Coconut-Aero-blue" alt="Coconut-Aero">
+</p>
 
-<a href="https://github.com/Coconut-Aero">
+<p align="center">
+  <a href="https://github.com/Coconut-Aero">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Coconut-Aero&show_icons=true&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/Coconut-Aero">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coconut-Aero" />
 </a>
+</p>  
 
 
 
