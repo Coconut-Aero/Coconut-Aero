@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="Language">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk" alt="Language">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="Language">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)" alt="Language">
+  <img src="https://camo.githubusercontent.com/61a81b1dbe844fb6b43df995ae0b9b118c641df75220b27281aad6ea97e46622/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d666666666666" alt="Language">
   <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero" alt="Last Commit">
   <img src="https://img.shields.io/badge/Coconut-Aero-blue" alt="Coconut-Aero">
 </p>
@@ -28,7 +28,10 @@
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Coconut-Aero&theme=gruvbox&row=1" alt="🏆">
- <img src="https://metrics.lecoq.io/Coconut-Aero?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTaipei" alt="Stat">
+ <img src="https://metrics.lecoq.io/Coconut-Aero?template=classic&isocalendar=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTaipei" alt="Stat">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coconut-Aero&theme=default" alt="">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coconut-Aero&theme=default&utcOffset=8" alt="">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coconut-Aero&theme=default" alt="">
 </p> 
 
 ## Programming Languages
