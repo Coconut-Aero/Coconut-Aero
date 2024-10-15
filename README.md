@@ -1,7 +1,7 @@
 # <div align="center">Coconut-Aero </div>
 
 <p align="center">
- <img src="https://img.shields.io/github/license/Coconut-Aero/JavaLearn.svg?logo=github" alt="License">
+ <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?logo=github" alt="License">
  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Language">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="Language">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="Language">
