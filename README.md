@@ -1,15 +1,15 @@
 # <div align="center">Coconut-Aero </div>
 
 <p align="center">
- <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?logo=github" alt="License">
- <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk" alt="Language">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="Language">
-  <img src="https://camo.githubusercontent.com/61a81b1dbe844fb6b43df995ae0b9b118c641df75220b27281aad6ea97e46622/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d666666666666" alt="Language">
-  <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Coconut-Aero-blue" alt="Coconut-Aero">
+ <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License">
+ <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Language">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Language">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero">
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coconut-Aero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -36,12 +36,37 @@
 
 ## Programming Languages
 
-- ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Go%20Lang/Golang.png" alt="Golang" width="150px">
+ <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Python/Python.png" alt="Python" width="150px">
+ <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/C%2CC%23%2CC%2B%2B/All.png" alt="C/C++" width="150px">
+ <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Java/Java.png" alt="Java" width="150px">
+ <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png" alt="HTML" width="150px">
+</p> 
+
+## Design
+<p align="center">
+    <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/GraphicDesign.png" alt="Graphic Design" width="150px">
+</p>
+
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001d34?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+- ![Premiere](https://img.shields.io/badge/Adobe%20Premiere-001d34?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-001d34?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+- ![Audition](https://img.shields.io/badge/Adobe%20Audition-001d34?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+
+## Working Environment
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png" alt="Ubuntu" width="200px">
+    <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Vim/VIM.png" alt="Vim" width="200px">
+    <img src="https://raw.githubusercontent.com/syke9p3/Syke-VTuber-Icons/refs/heads/main/Google%20Chrome/Google%20Chrome.png" alt="Chrome" width="200px">
+</p>
+
+
+## Game I Play
+<p align="center">
+    <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/WarThunder.png" alt="WarThunder" width="200px">
+</p>
 
 ## Language I am using
 
