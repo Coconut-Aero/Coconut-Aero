@@ -60,11 +60,12 @@
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png" alt="Ubuntu" width="150px">
     <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/Windows11.png" alt="Windows" width="150px">
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/GitHub/GitHub.png" alt="Github" width="150px">
+</p>
+<p align="center">
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Vim/VIM.png" alt="Vim" width="150px">
     <img src="https://raw.githubusercontent.com/syke9p3/Syke-VTuber-Icons/refs/heads/main/Google%20Chrome/Google%20Chrome.png" alt="Chrome" width="150px">
     <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/IntelliJ%20IDEA/IntelliJ%20IDEA.png" alt="IDEA" width="150px">
 </p>
-
 
 ## Game I Play
 <p align="center">
