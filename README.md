@@ -67,6 +67,20 @@
     <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/IntelliJ%20IDEA/IntelliJ%20IDEA.png" alt="IDEA" width="150px">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/GoLand-000000.svg?logo=goland&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/PhpStorm-000000.svg?logo=phpstorm&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/RubyMine-000000.svg?logo=rubymine&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/RustRover-000000.svg?logo=rust&logoColor=ffffff" alt="">
+ <img src="https://img.shields.io/badge/Rider-000000.svg?logo=rider&logoColor=ffffff" alt="">
+ 
+</p>
+
+
 ## Game I Play
 <p align="center">
     <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/WarThunder.png" alt="WarThunder" width="200px">
