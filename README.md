@@ -1,5 +1,7 @@
 # <div align="center">Coconut-Aero </div>
 
+
+
 <p align="center">
  <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License">
  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language">
@@ -12,8 +14,11 @@
   <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coconut-Aero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://github.com/Coconut-Aero">
+  <img height="200px" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Coconut-Aero&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</a>
 
 <p align="center">
   <a href="https://github.com/Coconut-Aero">
@@ -28,7 +33,6 @@
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Coconut-Aero&theme=gruvbox&row=1" alt="🏆">
- <img src="https://metrics.lecoq.io/Coconut-Aero?template=classic&isocalendar=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTaipei" alt="Stat">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coconut-Aero&theme=default" alt="">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coconut-Aero&theme=default&utcOffset=8" alt="">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coconut-Aero&theme=default" alt="">
@@ -49,10 +53,12 @@
     <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/GraphicDesign.png" alt="Graphic Design" width="200px">
 </p>
 
-- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001d34?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-- ![Premiere](https://img.shields.io/badge/Adobe%20Premiere-001d34?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-001d34?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
-- ![Audition](https://img.shields.io/badge/Adobe%20Audition-001d34?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001d34?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="">
+ <img src="https://img.shields.io/badge/Adobe%20Premiere-001d34?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="">
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-001d34?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="">
+ <img src="https://img.shields.io/badge/Adobe%20Audition-001d34?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="">
+</p>
 
 ## Working Environment
 
@@ -60,11 +66,22 @@
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Ubuntu/Ubuntu.png" alt="Ubuntu" width="150px">
     <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/Windows11.png" alt="Windows" width="150px">
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/GitHub/GitHub.png" alt="Github" width="150px">
+    <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/Android.png" alt="Android" width="150px">
+    <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Rider/Rider.png" alt="Rider" width="150px">
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Vim/VIM.png" alt="Vim" width="150px">
     <img src="https://raw.githubusercontent.com/syke9p3/Syke-VTuber-Icons/refs/heads/main/Google%20Chrome/Google%20Chrome.png" alt="Chrome" width="150px">
     <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/IntelliJ%20IDEA/IntelliJ%20IDEA.png" alt="IDEA" width="150px">
+    <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/DockerLogo.png" alt="docker" width="150px">
+    <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Clion/Clion.png" alt="clion" width="150px">
+</p>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png" alt="vscode" width="150px"> 
+   <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Twitter/Twitter.png" alt="twitter" width="200px"> 
+   <img src="https://raw.githubusercontent.com/murimurikyu/CuteVtubingThing/main/X(Tweeter).png" alt="x" height="75px"> 
+
 </p>
 
 <p align="center">
