@@ -39,7 +39,7 @@
 </p> 
 
 <p align="center">
-<figure><embed src="https://wakatime.com/share/@1fe90dba-e264-4ecd-aa5b-a7c354919a25/acd07118-3027-488f-b4df-71acacdf5ea1.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@1fe90dba-e264-4ecd-aa5b-a7c354919a25/acd07118-3027-488f-b4df-71acacdf5ea1.svg" alt="">
 </p> 
 
 ## Programming Languages
