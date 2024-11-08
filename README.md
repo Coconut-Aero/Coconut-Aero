@@ -1,7 +1,5 @@
 # <div align="center">Coconut-Aero </div>
 
-
-
 <p align="center">
  <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License">
  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language">
@@ -13,7 +11,6 @@
   <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit">
   <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero">
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Coconut-Aero">
@@ -28,8 +25,6 @@
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coconut-Aero" />
 </a>
 </p>  
-
-
 
 <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=Coconut-Aero&theme=gruvbox&row=1" alt="🏆">
