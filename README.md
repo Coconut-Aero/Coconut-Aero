@@ -1,15 +1,28 @@
 # <div align="center">Coconut-Aero </div>
 
 <p align="center">
- <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License">
- <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Language">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Language">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@Coconut-Aero.github?name=Coconut-Aero.github&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0">
+  </a>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License" height="30px">
+ <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language" height="30px">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language" height="30px">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language" height="30px">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Language" height="30px">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Language" height="30px">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Build with love" height="30px">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language" height="30px">
+  <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit" height="30px">
+  <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero" height="30px">
+</p>
+
+***🥥 Cute Coconut Save the World！***
+
+<p align="right">
+  --Coconut-Aero
 </p>
 
 <p align="center">
@@ -70,6 +83,20 @@
 </p>
 
 
+## My Project and My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Coconut-Aero/Coconut-Aero/refs/heads/main/FrontStar.png" alt="">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-Wiki&repo=Acwiki" alt="" height="100px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar-b-age&repo=CookLikeHOC" alt="" height="100px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-Haku&repo=kawaii-gcc" alt="" height="100px">
+
+
+</p>
+
 ## Language I am using
 
 <p align="center">
@@ -82,3 +109,4 @@
 Coconut-Aero/Coconut-Aero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
