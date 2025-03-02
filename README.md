@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language" height="30px">
   <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit" height="30px">
   <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero" height="30px">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="30px">
 </p>
 
 ***🥥 Cute Coconut Save the World！***
@@ -24,6 +25,20 @@
 <p align="right">
   --Coconut-Aero
 </p>
+
+## 🌟 Special Space  
+
+### In Loving Memory of [@TianqiChen666](https://x.com/TianqiChen666)  
+
+You are missed, but never forgotten.  
+Your kindness, wisdom, and laughter will always be with us.  
+
+*"Those we love never truly leave us."*  
+
+🕊️ *Rest in peace.*  
+
+---  
+
 
 <p align="center">
   <a href="https://github.com/Coconut-Aero">
@@ -50,7 +65,7 @@
   <img src="https://wakatime.com/share/@1fe90dba-e264-4ecd-aa5b-a7c354919a25/acd07118-3027-488f-b4df-71acacdf5ea1.svg" alt="">
 </p> 
 
-## Programming Languages
+## ⚙️ Programming Languages
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/refs/heads/main/Go%20Lang/Golang.png" alt="Golang" width="150px">
@@ -60,7 +75,7 @@
  <img src="https://raw.githubusercontent.com/Ender-Wiggin2019/ServiceLogos/main/Html/HTML.png" alt="HTML" width="150px">
 </p> 
 
-## Design
+## 🎨 Design
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-001d34?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="">
  <img src="https://img.shields.io/badge/Adobe%20Premiere-001d34?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="">
@@ -68,36 +83,49 @@
  <img src="https://img.shields.io/badge/Adobe%20Audition-001d34?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" alt="">
 </p>
 
-## Working Environment
+## 🛠️ Working Environment
 
 
 <p align="center">
- <img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/GoLand-000000.svg?logo=goland&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/PhpStorm-000000.svg?logo=phpstorm&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/RubyMine-000000.svg?logo=rubymine&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/Rider-000000.svg?logo=rider&logoColor=ffffff" alt="">
- <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="">
+   <img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/GoLand-000000.svg?logo=goland&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/CLion-000000.svg?logo=clion&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/PhpStorm-000000.svg?logo=phpstorm&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/WebStorm-000000.svg?logo=webstorm&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/RubyMine-000000.svg?logo=rubymine&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/Rider-000000.svg?logo=rider&logoColor=ffffff" alt="">
+   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="">
+   <a href="https://www.kernel.org/">
+      <img src="https://img.shields.io/badge/Linux-6.8.0-FCC624?logo=linux&logoColor=black" alt="Linux">
+   </a>
+  <a href="https://ubuntu.com/">
+      <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+  </a>
 </p>
 
 
-## My Project and My Contributions
+## 🚀 My Project and My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Coconut-Aero/Coconut-Aero/refs/heads/main/FrontStar.png" alt="">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-Wiki&repo=Acwiki" alt="" height="100px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar-b-age&repo=CookLikeHOC" alt="" height="100px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-Haku&repo=kawaii-gcc" alt="" height="100px">
-
-
+  <a href="https://github.com/Ac-Wiki/Acwiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ac-Wiki&repo=Acwiki" alt="" height="100px">
+  </a>
+  <a href="https://github.com/Gar-b-age/CookLikeHOC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gar-b-age&repo=CookLikeHOC" alt="" height="100px">
+  </a>
+  <a href="https://github.com/Bill-Haku/kawaii-gcc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-Haku&repo=kawaii-gcc" alt="" height="100px">
+  </a>
+  <a href="https://github.com/one-among-us/data">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=one-among-us&repo=data" alt="" height="100px">
+  </a>
 </p>
 
-## Language I am using
+## 🌍 Language I am using
 
 <p align="center">
 <img src="https://img.shields.io/badge/zh__CN-informational?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABAlBMVEUAAADeKBDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKBDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDeKRDdIRHeKRDeKRDeKRDeKRDeKRDeJxDcHhHZDBLeKRDeKBDeKRDhOA/eKRDdIRHeKRDeKRDeJxDdIhDfKxDdJBD//wDcGhHfLRDgMQ/YBBPbERLdIBHcHRHbFxHlSQ3WABTteQnwiwfnXAzsdQrznQfxlAf/4AD/2wDZDBPZCxLhOQ/iOw7kRA3mUwzrawruggn1qgX/9wD/8QD/6ADZCRPoYwvtfQn7ygP5wwP5vQP80gKMIeF3AAAAK3RSTlMA8iUX5MuvQjwO6KqikTEG+u3c19OfmIWEgn1uYlke9vXz8u7d19DAurhdOYiqRAAAAY1JREFUOMt9k+dywyAQhFHi7jhO770nB6Kouvca2+nv/yoBjTxBsa3vBwy3C+ycBNLInOT3jOv71HG6iBZZP74DAOH4ppxyhbX/+umNkALF1YZFQHEUkbPPvb4rqy5pzSyOQZHUDllL2NWGrU4QpYFHO9RUjq30XC/e2uXvdrn8RgT2OR9WLBcCLkLDY3U8as8q9ebAAyD+Kys5ELAT5iNjxlptxppY7sRura5yBhSCgCa18Reb/PTLRN1tel05h6igh/LYziebtLgPCuxxLiAkLw3bAHadlSzWtFWJupWGChmSRRm5h3/UbLtUxaoBxAlCzjlHJ9JgEccUjmdhE7o+6Q0FhTn7KCVHtTUYqTmqCO6oRoUk0S5oeHQ6tbheySFDX1JReydYrxhRg4nV544adiAKji5zMmQsD7KRsWygdLzhDKGrWMM6Qgdx+pP6neMMm0hytFrPo4DdVfp2MXwzsRco0ltL9RftYewtyokM0ikstDCLomxuXGpyKrPsfZ8fJBOGkUjun138VX8Bv56Mh1BF5BoAAAAASUVORK5CYII=" alt="">
