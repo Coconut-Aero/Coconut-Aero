@@ -26,19 +26,6 @@
   --Coconut-Aero
 </p>
 
-## 🌟 Special Space  
-
-### In Loving Memory of [@TianqiChen666](https://x.com/TianqiChen666)  
-
-You are missed, but never forgotten.  
-Your kindness, wisdom, and laughter will always be with us.  
-
-*"Those we love never truly leave us."*  
-
-🕊️ *Rest in peace.*  
-
----  
-
 
 <p align="center">
   <a href="https://github.com/Coconut-Aero">
