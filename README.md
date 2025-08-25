@@ -42,7 +42,7 @@
 </p>  
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Coconut-Aero&theme=gruvbox&row=1" alt="🏆">
+ <!---<img src="https://github-profile-trophy.vercel.app/?username=Coconut-Aero&theme=gruvbox&row=1" alt="🏆">--->
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coconut-Aero&theme=default" alt="">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coconut-Aero&theme=default&utcOffset=8" alt="">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coconut-Aero&theme=default" alt="">
