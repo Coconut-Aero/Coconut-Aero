@@ -8,16 +8,9 @@
 
 <p align="center">
  <img src="https://img.shields.io/github/license/Coconut-Aero/Coconut-Aero?style=for-the-badge&logo=github" alt="License" height="30px">
- <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Language" height="30px">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Language" height="30px">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Language" height="30px">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Language" height="30px">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Language" height="30px">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Build with love" height="30px">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language" height="30px">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Build with love" height="28px">
   <img src="https://img.shields.io/github/last-commit/Coconut-Aero/Coconut-Aero?style=for-the-badge" alt="Last Commit" height="30px">
   <img src="https://img.shields.io/badge/Coconut-Aero-blue?style=for-the-badge" alt="Coconut-Aero" height="30px">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" height="30px">
 </p>
 
 ***🥥 Cute Coconut Save the World！***
