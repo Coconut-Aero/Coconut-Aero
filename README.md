@@ -1,4 +1,5 @@
-# <div align="center">Coconut-Aero </div>
+# _Coconut-Aero_ <img align="right" src="https://avatars.githubusercontent.com/Coconut-Aero"  width="64">
+
 
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
